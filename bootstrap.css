@@ -124,11 +124,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #28a745;
+  color: #7cc47c;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #19692c;
+    color: #7cc47c;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -7016,7 +7016,7 @@ button.bg-dark:focus {
   color: #F3F9F3 !important; }
 
 .text-primary {
-  color: #28a745 !important; }
+  color: #7cc47c !important; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #19692c !important; }
